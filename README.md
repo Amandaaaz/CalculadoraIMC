@@ -1,6 +1,7 @@
 # CalculadoraIMC
 
-![image](https://github.com/Amandaaaz/CalculadoraIMC/assets/95643803/44d269e5-6141-4507-ab1b-24a9275c3a8b)
+![image](https://github.com/Amandaaaz/CalculadoraIMC/assets/95643803/09fc8582-d9ce-403a-9e0f-1426dd72c7c1)
+
 
 # Tecnologias usadas:
 HTML;
